@@ -41,3 +41,4 @@ programa
 		escreva("Média:\n", media, "\n")
 	}
 }
+
